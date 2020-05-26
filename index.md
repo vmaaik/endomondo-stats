@@ -1,7 +1,7 @@
 ## Wyniki rywalizacji grupowej
 
 ```markdown
-Aktualizacja: 2020-05-26 23:26:30
+Aktualizacja: 2020-05-26 23:56:15
 ```
 
 Drużyna A | Drużyna B
