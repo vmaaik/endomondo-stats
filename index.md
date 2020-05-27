@@ -1,9 +1,9 @@
 ## Wyniki rywalizacji grupowej
 
 ```markdown
-Aktualizacja: 2020-05-27 14:56:14
+Aktualizacja: 2020-05-27 15:26:19
 ```
 
 Drużyna A | Drużyna B
 ------------ | -------------
- 8612 KM | 8617 KM
+ 8686 KM | 8639 KM
