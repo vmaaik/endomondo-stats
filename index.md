@@ -1,9 +1,9 @@
 ## Wyniki rywalizacji grupowej
 
 ```markdown
-Aktualizacja: 2020-05-28 18:01:23
+Aktualizacja: 2020-05-28 18:09:55
 ```
 
 Drużyna A | Jeszcze bez nazwy
 ------------ | -------------
- 45 KM | 29 KM
+ 22 KM | 14 KM
