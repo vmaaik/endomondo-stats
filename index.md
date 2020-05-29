@@ -1,7 +1,7 @@
 ## Wyniki rywalizacji grupowej
 
 ```markdown
-Aktualizacja: 2020-05-29 11:40:00
+Aktualizacja: 2020-05-29 12:10:00
 ```
 
 Drużyna A | Jeszcze bez nazwy
