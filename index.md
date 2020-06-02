@@ -1,7 +1,7 @@
 ## Wyniki rywalizacji grupowej
 
 ```markdown
-Aktualizacja: 2020-06-02 21:21:15
+Aktualizacja: 2020-06-02 21:51:15
 ```
 
 Pozycja | Nazwa | Wynik [km] |
