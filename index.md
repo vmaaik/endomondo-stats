@@ -1,10 +1,10 @@
 ## Wyniki rywalizacji grupowej
 
 ```markdown
-Aktualizacja: 2020-06-15 10:51
+Aktualizacja: 2020-06-15 11:21
 ```
 
 Pozycja | Nazwa | Wynik [km] |
 ------------ | -------------  | -------------
  1 |Ciosy Mocy aka Ostry Cień Mgły | 596.07 
- 2 |Drużyna A | 548.64
+ 2 |Drużyna A | 550.67
